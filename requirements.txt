@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib.pyplot
+dotenv
+scikit-surprise
+pickel
+os
